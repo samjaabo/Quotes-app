@@ -30,3 +30,7 @@ Welcome to the Quotes Sharing and Exploring App! This full-stack application, bu
     ```bash
     npx prisma migrate dev --name init
     ```
+4. **run**:
+    ```bash
+    npm run dev
+    ```
